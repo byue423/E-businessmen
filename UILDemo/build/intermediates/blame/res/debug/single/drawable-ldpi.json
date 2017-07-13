@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\E-businessmen\\UILDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\E-businessmen\\UILDemo\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\E-businessmen\\UILDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_stub.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\E-businessmen\\UILDemo\\src\\main\\res\\drawable-ldpi\\ic_stub.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\E-businessmen\\UILDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_error.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\E-businessmen\\UILDemo\\src\\main\\res\\drawable-ldpi\\ic_error.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\E-businessmen\\UILDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_empty.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\E-businessmen\\UILDemo\\src\\main\\res\\drawable-ldpi\\ic_empty.png"
+    }
+]

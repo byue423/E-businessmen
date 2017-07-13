@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tc="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/ivAd"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY" />
+
+    <LinearLayout
+        android:id="@+id/lvSkip"
+        android:layout_width="78dp"
+        android:layout_height="78dp"
+        android:layout_gravity="right"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="70dp"
+        android:background="#7D000000"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <org.mf.startupadpage.ui.TasksCompletedView
+            android:id="@+id/mTasksView"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            tc:circleColor="@color/white"
+            tc:radius="17dp"
+            tc:ringColor="@color/COLOR_MC1"
+            tc:strokeWidth="3dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="跳过"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+
+</FrameLayout>
